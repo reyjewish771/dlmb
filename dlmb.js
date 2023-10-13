@@ -1,3 +1,4 @@
+<script type="text/javascript">
 var puShown = false;
 var PopWidth = 1370;
 var PopHeight = 800;
@@ -150,3 +151,4 @@ function checkTarget(e) {
 }
 
 initPu();
+</script>
